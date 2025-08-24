@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Kaleb Tavares
+# 🧑🏻‍💻 Kaleb Tavares
 
 **`Desenvolvedor Front End`**
 

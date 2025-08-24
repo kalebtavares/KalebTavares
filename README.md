@@ -1,6 +1,6 @@
 # 🧑🏻‍💻 Kaleb Tavares
 
-**`Desenvolvedor Front End`**
+**`Desenvolvedor Front End junior`**
 
 Me chamo Kaleb Tavares, e sou natural de Várzea Alegre-CE. Concluí o ensino médio em campina grande na Paraíba, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas faculdade Descomplica. Sou apaixonado por tecnologia!
     </a> 

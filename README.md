@@ -5,6 +5,8 @@
 Me chamo Kaleb Tavares, e sou natural de Várzea Alegre-CE. Concluí o ensino médio em campina grande na Paraíba, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas faculdade Descomplica. Sou apaixonado por tecnologia!
   <h1 align="center">Hey 👋What's Up?</h1>
 
+<h1 align="center">Hey 👋What's Up?</h1>
+
 ###
 
 <div align="center">
@@ -55,10 +57,3 @@ Me chamo Kaleb Tavares, e sou natural de Várzea Alegre-CE. Concluí o ensino m�
 </picture>
 
 ###
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalebtavares&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>

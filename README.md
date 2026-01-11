@@ -50,16 +50,3 @@
 ###
 
 <p align="center">Me chamo Kaleb Tavares, e sou natural de Várzea Alegre-CE. Concluí o ensino médio em campina grande na Paraíba, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas faculdade UNIASELVI. Sou apaixonado por tecnologia!</p>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalebtavares&theme=default&show_icons=true&hide_border=true&count_private=true" alt="kalebtavares's GitHub Stats" />
-
-</div>
-
-###
-
-<img src="https://github-readme-stats.vercel.app/api?username=kalebtavares&theme=default&show_icons=true&hide_border=true&count_private=true" alt="kalebtavares's GitHub Stats" />
-
-###

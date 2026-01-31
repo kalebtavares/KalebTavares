@@ -29,8 +29,8 @@ Gosto de documentar minha jornada e compartilhar aprendizados sobre a migração
 ---
 
 ### ⚡ Estatísticas do GitHub
-![Kaleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=KalebTavares&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KalebTavares&layout=compact&theme=dracula)
+![Kaleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalebtavares&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalebtavares&layout=compact&theme=dracula)
 
 ---
 

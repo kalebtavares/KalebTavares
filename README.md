@@ -1,3 +1,24 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza=/maurodesouza=/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza=/maurodesouza=/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza=/maurodesouza=/output/pacman-contribution-graph.svg">
+</picture>
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza=&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza=&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza=.maurodesouza=&"  />
+</div>
+
+###
+
+
 # 💫 Sobre Mim:
 Estou em transição de carreira e migrando para a área de desenvolvimento de software. Atualmente, meu foco total é no Backend, onde busco minha primeira oportunidade de estágio.<br><br>Gosto de documentar minha jornada e compartilhar aprendizados sobre a migração de carreira e tecnologia.<br><br>🔭 Atualmente trabalhando em: Projetos acadêmicos e pessoais com foco em boas práticas de engenharia de software.<br>🌱 Estudando: Aprofundando conhecimentos em Java, Spring Framework, Docker e AWS.<br>💡 Objetivo: Consolidar conhecimentos em arquitetura de microsserviços e cloud computing.
 

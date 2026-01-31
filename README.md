@@ -1,52 +1,41 @@
-<h1 align="left">👋 Olá, Sou o Kaleb Tavares!</h1>
+# Olá, sou o Kaleb! 👋
 
-###
+### 🚀 Sobre Mim
+Estou em transição de carreira e migrando para a área de desenvolvimento de software. Atualmente, meu foco total é no **Backend**, onde busco minha primeira oportunidade de estágio.
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+Gosto de documentar minha jornada e compartilhar aprendizados sobre a migração de carreira e tecnologia.
 
-###
+- 🔭 **Atualmente trabalhando em:** Projetos acadêmicos e pessoais com foco em boas práticas de engenharia de software.
+- 🌱 **Estudando:** Aprofundando conhecimentos em **Java, Spring Framework, Docker e AWS**.
+- 💡 **Objetivo:** Consolidar conhecimentos em arquitetura de microsserviços e cloud computing.
 
-<h3 align="left">Estou me especializando em:</h3>
+---
 
-###
+### 🛠️ Tech Stack & Ferramentas
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-</div>
+**Backend**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-###
+**DevOps & Cloud**
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-<h3 align="left">Minhas Redes Sociais!</h3>
+**Ferramentas**
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-###
+---
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/kalebtavares/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/kalebtsilva/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
+### ⚡ Estatísticas do GitHub
+![Kaleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalebtavares&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalebtavares&layout=compact&theme=dracula)
 
-###
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza=/maurodesouza=/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza=/maurodesouza=/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza=/maurodesouza=/output/pacman-contribution-graph.svg">
-</picture>
+### 📫 Contato
+Sinta-se à vontade para entrar em contato comigo!
 
-###
-
-<p align="center">Me chamo Kaleb Tavares, e sou natural de Várzea Alegre-CE. Concluí o ensino médio em campina grande na Paraíba, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas faculdade UNIASELVI. Sou apaixonado por tecnologia!</p>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([LINK_DO_SEU_LINKEDIN](https://www.linkedin.com/in/kalebtavares/))
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalebtavares@icloud.com)

@@ -70,7 +70,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=kalebtavares&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kalebtavares&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalebtavares)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kalebtavares&icon=0&color=0)](https://visitcount.itsvg.in)
